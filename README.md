@@ -1,2 +1,7 @@
 # ContentManagementSystem
- 
+
+Esse código é um sistema básico de gerenciamento de usuários e conteúdos. Ele permite criar, listar, editar e deletar usuários e conteúdos em um banco de dados simples. A classe User lida com as operações de usuário, como criação, login e alteração de senhas. Já a classe Content gerencia artigos, permitindo que você adicione, edite e remova conteúdos. A persistência dos dados é feita usando JDBC com um banco de dados em memória (HSQLDB). O código também inclui uma interface de texto simples (TUI) para interagir com o sistema.
+
+==============================================================================================================================================================================================================================
+
+This code is a basic user and content management system. It allows creating, listing, editing, and deleting users and content in a simple database. The User class handles user operations, such as creating, logging in, and changing passwords. The Content class manages articles, allowing you to add, edit, and remove content. Data persistence is managed using JDBC with an in-memory database (HSQLDB). The code also includes a simple text-based interface (TUI) to interact with the system.
